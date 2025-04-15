@@ -1,6 +1,6 @@
 Features
-8x6 chessbaord pattern detecting from video
-render a color 3d lego block
+-8x6 chessbaord pattern detecting from video
+-render a color 3d lego block
 
 requirements python 3.x
 opencv
